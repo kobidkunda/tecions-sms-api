@@ -1,14 +1,14 @@
 {
-  "name": "shamim/ultimate-sms-api",
-  "description": "Ultimate SMS API is build for Ultimate SMS - Bulk SMS Application For Marketing",
+  "name": "tecions-sms-api",
+  "description": "tecions-sms-api",
   "type": "library",
   "license": "MIT",
   "version": "2.7.0",
   "minimum-stability": "stable",
   "authors": [
     {
-      "name": "Abul Kashem Shamim",
-      "email": "akasham67@gmail.com"
+      "name": "",
+      "email": ""
     }
   ],
   "autoload": {
