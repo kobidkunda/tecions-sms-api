@@ -1,6 +1,6 @@
 {
-  "name": "tecions-sms-api",
-  "description": "tecions-sms-api",
+  "name": "tecions sms api",
+  "description": "tecions sms api",
   "type": "library",
   "license": "MIT",
   "version": "2.7.0",
